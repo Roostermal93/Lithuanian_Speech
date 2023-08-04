@@ -1,0 +1,49 @@
+{
+    "count": 6,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "a7e57ca1-cc7c-44f8-a44c-9d93fe049ff7",
+            "collectionId": "Lithuanian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Lithuanian/Lithuanian_Speech/a7e57ca1-cc7c-44f8-a44c-9d93fe049ff7/a7e57ca1-cc7c-44f8-a44c-9d93fe049ff7_lt_Male.mp4"
+        },
+        {
+            "id": "7d019b7c-6552-424f-9228-08f30f59a59a",
+            "collectionId": "Lithuanian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Lithuanian/Lithuanian_Speech/7d019b7c-6552-424f-9228-08f30f59a59a/7d019b7c-6552-424f-9228-08f30f59a59a_lt_Male.mp4"
+        },
+        {
+            "id": "968aaa16-fe67-49a6-94db-7ee1ed1ab593",
+            "collectionId": "Lithuanian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Lithuanian/Lithuanian_Speech/968aaa16-fe67-49a6-94db-7ee1ed1ab593/968aaa16-fe67-49a6-94db-7ee1ed1ab593_lt_Male.mp4"
+        },
+        {
+            "id": "8a111a89-5f56-43eb-bae9-e6b973f17179",
+            "collectionId": "Lithuanian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Lithuanian/Lithuanian_Speech/8a111a89-5f56-43eb-bae9-e6b973f17179/8a111a89-5f56-43eb-bae9-e6b973f17179_lt_Male.mp4"
+        },
+        {
+            "id": "66a1e0f9-5913-41c7-8c3f-bfbd414ccc95",
+            "collectionId": "Lithuanian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Lithuanian/Lithuanian_Speech/66a1e0f9-5913-41c7-8c3f-bfbd414ccc95/66a1e0f9-5913-41c7-8c3f-bfbd414ccc95_lt_Male.mp4"
+        },
+        {
+            "id": "7a232655-7b4d-4ba9-af76-5a3f914daafa",
+            "collectionId": "Lithuanian",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Lithuanian/Lithuanian_Speech/7a232655-7b4d-4ba9-af76-5a3f914daafa/7a232655-7b4d-4ba9-af76-5a3f914daafa_lt_Male.mp4"
+        }
+    ]
+}
